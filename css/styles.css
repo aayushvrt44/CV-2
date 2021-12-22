@@ -1,0 +1,31 @@
+body{
+  background-color : #A9333A;
+}
+h1{
+  color: #950101;
+}
+h3{
+  color: #FF6D6D;
+}
+h4{
+  color: #FF6D6D;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #8E806A;
+  border-width: 7px;
+  width : 10%
+}
+.circular{
+  border-radius: 100%;
+}
+hr:hover{
+  background-color: yellow;
+}
+a:hover{
+  background-color: pink;
+}
+#heading{
+  color: gold;
+}
